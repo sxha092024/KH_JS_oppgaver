@@ -7,18 +7,18 @@ const myArray = ["apple", "banana", "cherry", "date", "eggplant"];
 // Print the numbers 1-10 using a "while loop"
 
 //3.--------------------------------------------------------------------------------------
-// Print each item in myArray as a string using a "for loop".
+// Print each item in myArray using a "for loop".
 
 //4.--------------------------------------------------------------------------------------
 // Using the myArray.push() method, add "mango" to the end of myArray.
-//print myArray using a for... in loop.
+//print myArray using a for... of loop.
 
 //5.--------------------------------------------------------------------------------------
 //Using the myArray.splice() method, remove "cherry" from myArray
 // print the result using myArray.foreach()
 
 //6.--------------------------------------------------------------------------------------
-// Using the .pop() and .shift() method, remove the first and last item from myArray.
+// Using the .shift() and .pop() method, remove the first and last item from myArray.
 //print the result
 
 // 7.--------------------------------------------------------------------------------------
