@@ -17,7 +17,7 @@ const myArray = ["apple", "banana", "cherry", "date", "eggplant"];
 // print the result using myArray.foreach()
 
 //6.--------------------------------------------------------------------------------------
-// Using the .pop() method, remove the last item from myArray.
+// Using the .pop() and .shift() method, remove the first and last item from myArray.
 //print the result
 
 // 7.--------------------------------------------------------------------------------------
