@@ -13,7 +13,8 @@ const myArray = ["apple", "banana", "cherry", "date", "eggplant"];
 // Using the myArray.push() method, add "mango" to the end of myArray.
 //print myArray using a for... in loop.
 
-//5. Using the myArray.splice() method, remove "cherry" from myArray
+//5.--------------------------------------------------------------------------------------
+//Using the myArray.splice() method, remove "cherry" from myArray
 // print the result using myArray.foreach()
 
 //6.--------------------------------------------------------------------------------------
